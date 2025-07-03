@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Escalas de Dibujo Técnico",
+  "description": "Una aplicación web interactiva para aprender sobre las escalas en dibujo técnico. Incluye explicaciones, una calculadora interactiva y ejercicios prácticos para estudiantes.",
+  "requestFramePermissions": []
+}
